@@ -1,15 +1,17 @@
 # vue-boilerplate
 ## Project Description
-```
-create project from vue-cli 
 
-add dependencies 
-⋅⋅* vue-router 
-⋅⋅* vuex 
-⋅⋅* antd 
-⋅⋅* vue-axois 
-⋅⋅* eslint
-```
+
+
+## Create project from vue-cli 
+
+## Add dependencies 
+* vue-router 
+* vuex 
+* antd 
+* vue-axois 
+* eslint
+
 
 ## Project setup
 ```
